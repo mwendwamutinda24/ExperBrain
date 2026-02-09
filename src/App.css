@@ -1798,6 +1798,9 @@ footer {
       font-size: 18px;
       text-align: left; 
     } 
+    .x{
+      margin:40px;
+    }
     .form-group input {
       font-size: 14px;
       padding: 10px; 
