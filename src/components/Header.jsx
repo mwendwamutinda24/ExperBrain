@@ -41,7 +41,7 @@ function Header() {
 
          <div className="auth">
 
-            <Link to="/sign-in" onClick={handleLinkClick}>Sign In</Link>
+            <Link to="#" onClick={handleLinkClick}>Sign In</Link>
             <Link to="/RequestAccess" onClick={handleLinkClick}>Request Access</Link>
 
          </div>
@@ -53,3 +53,4 @@ function Header() {
 }
 
 export default Header;
+
